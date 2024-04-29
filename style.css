@@ -1,0 +1,55 @@
+*{
+    padding: 0;
+    margin: 0;
+
+}
+
+body{
+    background-image: url(./image\ 152.png);
+
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+#navbarSupportedContent{
+    padding-left: 65%;
+    font-size: 1rem;
+    font-weight: 400;
+    font-size: 500;
+    
+}
+img{
+    color: #F857A6;
+}
+.write h1{
+
+    width: 470px;
+    height: 183px;
+    top: 208px;
+    left: 149px;
+    font-weight: 700px;
+    size: 52px;
+    color: #ffffff;
+    line-height: 60.94px;
+    margin-top: 80px;
+    padding: 50px;
+    margin-left: 200px;
+
+
+}
+.center p{
+    margin-left: 240px;
+    padding-top: 100px;
+    color: white;
+    width: 438px;
+    height: 78px;
+    top: 455px;
+    left: 149px;
+  
+}
+span{
+    color: red;
+}
+.btn img{
+    padding-top: 110px;
+    margin-left: 220px;
+}
